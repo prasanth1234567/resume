@@ -1,0 +1,34 @@
+{
+  "basics":{
+    "name":"prasanth",
+    "email":"kprasanth743@gmail.com",
+    "photo":"images.jpg",
+    "phone":"8977787971",
+    "address":"chittoor, AP"
+  },
+  "career":{
+    "info":"Michelle could have used a great resume objective to grab the recruiter’s attention and let the recruiter know that her resume is in the right place"
+  },
+  "education":[
+    {
+      "course":"MCA",
+      "college":"svpcet,puttur",
+      "data":["2015-2018","75%"]
+    },
+    {
+      "course":"bsc(computers)",
+      "college":"vijayam,chittoor",
+      "data":["2012-2015","75%"]
+    },
+    {
+      "course":"inetrmediate(M.P.C)",
+      "college":"GOVT juniorcollege,penumur",
+      "data":["2010-2012","75%"]
+    },
+    {
+      "course":"s.s.c",
+      "college":"govt school,penumr",
+      "data":["2009-2010","75%"]
+    }
+  ]
+}
